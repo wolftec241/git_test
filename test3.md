@@ -19,6 +19,8 @@ function setBtnEvent(){
 <<<<<<< HEAD
 function a(){
 console.log('say aaaa');
+alert('a');
+}
 =======
 function b(){
     alert('aaa');
