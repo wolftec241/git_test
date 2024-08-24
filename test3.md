@@ -16,6 +16,10 @@ function setBtnEvent(){
     contactBtn.addEventListener('click', loadContact);
 }
 
+function a(){
+console.log('say aaaa');
+}
+
 
 function init(){
     loadHome();
