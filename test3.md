@@ -16,8 +16,13 @@ function setBtnEvent(){
     contactBtn.addEventListener('click', loadContact);
 }
 
+<<<<<<< HEAD
 function a(){
 console.log('say aaaa');
+=======
+function b(){
+    alert('aaa');
+>>>>>>> 8ddc66d835cb2bbacaad6c315bca53eceafca58c
 }
 
 
