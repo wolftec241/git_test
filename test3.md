@@ -15,16 +15,8 @@ function setBtnEvent(){
     menuBtn.addEventListener('click', loadMenu);
     contactBtn.addEventListener('click', loadContact);
 }
-
-<<<<<<< HEAD
 function a(){
-console.log('say aaaa');
-alert('a');
-}
-=======
-function b(){
-    alert('aaa');
->>>>>>> 8ddc66d835cb2bbacaad6c315bca53eceafca58c
+    return 0;
 }
 
 
